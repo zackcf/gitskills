@@ -5,3 +5,4 @@ b = 3
 c = a + b
 d = a * b
 print(d)
+print(c)
